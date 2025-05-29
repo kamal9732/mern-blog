@@ -55,6 +55,6 @@ export const updateUser = async (req,res,next) => {
 };
 
 
-export const deleteUser = (req,res,next) => {
+// export const deleteUser = (req,res,next) => {
   
-}
+// }
